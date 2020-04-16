@@ -1,4 +1,5 @@
-This is a simple JavaSCript game[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[c[C[C[C[C[C[C[C[C[C. Click on ''[DROLL DICE[' which adds score until 1 is rolled.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D keeps adding score until 1 is rolled.
-Click 'HOLD' to save the current score.
-Player who score more than 20 wins the game!
+This is a simple JavaSCript game.
+Click on 'ROLL DICE' which keeps adding score until 1 is rolled and ontrol goes to the second player.
+Click 'HOLD' to save the current score else all the score added by clicking 'ROLL DICE' will be lost.
+Player who scores more than 20 points wins the game!
 Enjoy!!
